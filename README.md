@@ -2,7 +2,7 @@
 - 👀 I’m interested in most technology related topics and specially fascinated by the possibilities and opportunities of the Internet of Things (IoT)
 - 🌱 I’m currently learning and working with FreeRTOS and the powerful embedded programming techniques
 - 💞️ I’m looking to collaborate on IoT related projects, also including hardware design
-- 📫 It's easy to contact me, just leave a message on my personal email: gadotti@hotmail.com, or visiting my personal webpage: www.gadotti.eng.br (under construction)
+- 📫 It's easy to contact me, just leave a message on my personal email: gadotti@hotmail.com, or visiting my personal webpage: www.gadotti.eng.br
 
 <!---
 IGtti/IGtti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
